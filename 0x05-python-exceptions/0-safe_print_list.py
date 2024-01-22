@@ -11,4 +11,4 @@ def safe_print_list(my_list=None, x=0):
         except IndexError:
             break
     print("")
-    return
+    return num
